@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gmenchetti/TravlendarPlus/Documentation/Images/logo_icon.png" height="150">
+  ![picture](Documentation/Images/logo_icon.png)
 </p>
 
 # Travlendar+
