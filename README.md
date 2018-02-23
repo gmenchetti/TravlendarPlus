@@ -1,2 +1,14 @@
-# Travlendar-
-Travlendar+ is an iOS calendar based application to help users organise their appointments taking into account their preferences and providing appropriate mobility solutions.
+<p align="center">
+  <img src="https://github.com/gmenchetti/MenchettiNorciniScarlatti/blob/master/Installation%20Instruction/img/t%2B.png/" height="150">
+</p>
+
+# Travlendar+
+Software Engineering 2 project for Politecnico di Milano.
+
+Travlendar+ is a calendar based application whose goal is to help registered Users organize their day by scheduling their appointments and providing the best solutions in terms of mobility.
+
+## Authors
+
+* **[Guglielmo Menchetti](https://github.com/gmenchetti)**
+* **[Lorenzo Norcini](https://github.com/LorenzoNorcini)**
+* **[Tommaso Scarlatti](https://github.com/tmscarla)**
