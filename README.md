@@ -1,4 +1,4 @@
-![picture](Documentation/Images/logo_icon.png)
+![picture](Documentation/Images/logo_icon.png | height=150)
 
 # Travlendar+
 Software Engineering 2 project for Politecnico di Milano.
